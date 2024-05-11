@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Кирилл\\Desktop\\alf3\\WebApiWeb\\WebApiWeb.csproj": {}
+    "C:\\Users\\Vance\\source\\repos\\AlfWebApi\\WebApiWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Кирилл\\Desktop\\alf3\\WebApiWeb\\WebApiWeb.csproj": {
+    "C:\\Users\\Vance\\source\\repos\\AlfWebApi\\WebApiWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Кирилл\\Desktop\\alf3\\WebApiWeb\\WebApiWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Vance\\source\\repos\\AlfWebApi\\WebApiWeb.csproj",
         "projectName": "WebApiWeb",
-        "projectPath": "C:\\Users\\Кирилл\\Desktop\\alf3\\WebApiWeb\\WebApiWeb.csproj",
-        "packagesPath": "C:\\Users\\Кирилл\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Кирилл\\Desktop\\alf3\\WebApiWeb\\obj\\",
+        "projectPath": "C:\\Users\\Vance\\source\\repos\\AlfWebApi\\WebApiWeb.csproj",
+        "packagesPath": "C:\\Users\\Vance\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vance\\source\\repos\\AlfWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Кирилл\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vance\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -53,6 +53,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.5.1, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",

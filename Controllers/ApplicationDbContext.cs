@@ -13,7 +13,7 @@ namespace WebApiWeb.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=Webdb;Username=postgres;Password=1234");
+            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=Webdb;Username=postgres;Password=123456789");
         }
     }
 }
